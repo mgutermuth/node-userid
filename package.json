@@ -6,10 +6,6 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jandre/node-userid.git"
-  },
   "author": "Jen Andre <jandre@gmail.com>",
   "license": "GPLv3",
   "gypfile": true,
